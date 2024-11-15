@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dharm\\source\\App\\DotNet.Docker.csproj": {}
+    "C:\\Developer\\.NET-Docker-App\\App\\DotNet.Docker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dharm\\source\\App\\DotNet.Docker.csproj": {
+    "C:\\Developer\\.NET-Docker-App\\App\\DotNet.Docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dharm\\source\\App\\DotNet.Docker.csproj",
+        "projectUniqueName": "C:\\Developer\\.NET-Docker-App\\App\\DotNet.Docker.csproj",
         "projectName": "DotNet.Docker",
-        "projectPath": "C:\\Users\\dharm\\source\\App\\DotNet.Docker.csproj",
+        "projectPath": "C:\\Developer\\.NET-Docker-App\\App\\DotNet.Docker.csproj",
         "packagesPath": "C:\\Users\\dharm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dharm\\source\\App\\obj\\",
+        "outputPath": "C:\\Developer\\.NET-Docker-App\\App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
